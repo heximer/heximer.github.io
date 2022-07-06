@@ -147,6 +147,8 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Avoid the extreme ends of financial decisions.](https://www.reddit.com/r/Showerthoughts/comments/vjq523/avoid_the_extreme_ends_of_financial_decisions/)
+- [paying off debt with more debt is not a sustainable strategy.](https://www.reddit.com/r/Showerthoughts/comments/5kdsbk/paying_off_debt_with_more_debt_is_not_a/)
 <!-- BLOG-POST-LIST:END -->
 
 ----
