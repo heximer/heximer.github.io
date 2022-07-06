@@ -30,9 +30,9 @@
 * *Accumulation Phase*
 * We’ll work with you to develop a customized plan on how to best plan for retirement based on your lifestyle now and your hopes for the future. From there, we’ll take care of everything – coordinating the investment and monitoring of your accounts and contributions – with complete visibility and transparency.
 
-**New Client Expectations:**</br>
+**New Client Expectations:**
 
-*A discovery meeting where we talk about your financial goals and concerns.*</br>
+*A discovery meeting where we talk about your financial goals and concerns.*
 *	Evaluate personal financial risk tolerance, and investment objectives, blending psychology and statistics.
 *	Collect and organize the information needed to develop an asset management program which includes your goals and the resources available to fund them.
 *	Personalized explanation of investment risk and return to help better understand how investments might perform in the future.
@@ -95,20 +95,20 @@
 
 **Full Service / Wealth Management**
 * Designed with the seasoned investor in mind, this program includes customized financial planning and strategic asset allocation in funds and/or individual securities, all while keeping tax efficiency in mind.
-* Managed Assets: First $1,000,000</br>
+* Managed Assets: First $1,000,000
 * Annual Fee: 1.0%
 * Minimum Annual Fee: $1,000
 * Planning: Included
 * Fees are Paid Quarterly in Advance/ Example: $100,000 x 1.0% = $1,000 / 4 = $250
 
-**Fund Only / Investment Management**</br>
+**Fund Only / Investment Management**
 * This program eliminates all the extras, utilizing funds to implement your strategy.
 * Managed Assets: Total balance
-* Annual Fee: 0.70%</br>
+* Annual Fee: 0.70%
 * Minimum Annual Fee: $1,000
 * Planning: Starting at $250
 
-**Support / Financial Planning**</br>
+**Support / Financial Planning**
 * Financial Planning fees will be charged in one of two ways: As a fixed fee, typically ranging from $1,000 to $25,000, depending on the nature and complexity of each client’s circumstances, or on an hourly basis of $200 per hour.
 
 ----
@@ -122,10 +122,10 @@
 
 | Professional  | Role & Bio  |
 |:---:|:---:| 
-| <img src="https://heximer.net/wp-content/uploads/2022/05/jco-headshot.jpg" width="200"></br>John Ohsner  | John is a professional Portfolio Manager and Financial Planner. He offers clients thoughtful design and implementation of their investment programs and financial plans. John focuses his work across a full array of services in portfolio management and financial planning, emphasizing the income and estate planning potential unique to each circumstance. John coordinates his work with other tax and legal professionals to administer different programs for brokerage, retirement, estate and trust accounts. John is a subject matter expert about Safe Havens and he contributes to the Project Dream Chaser research platform. John is a fee only fiduciary with leading tools for clients like Heximer Mobile. John promotes continuing education and offers internship opportunities with different schools. John is a member of the CFA Society of Columbus, the Columbus Estate Planning Council, and The Wellington School’s Alumni Association.  |
-| <img src="https://heximer.net/wp-content/uploads/2021/03/GM1_9285bestFinal-8x10.jpg" width="200"></br>Brandon Kremer  | Brandon Kremer joined Heximer Investment Management, Inc. full time in 2016 after completing an internship with the firm in 2015. He is a Chartered Financial Analyst (CFA) Charterholder and a Chartered Alternative Investment Analyst. Brandon completed the Master of Financial Economics program at Ohio University where he also attained his undergraduate degree in Economics. As an associate in the firm Brandon is responsible for administrative matters including, but not limited to: portfolio reporting, client on-boarding and any additional services that clients require. As a Portfolio Manager Brandon is a voting member on the firm investment committee with responsibilities ranging from portfolio construction and trading to client education and investment research. Brandon is originally from Lancaster, but has lived in Columbus since 2014. He enjoys golf, fantasy football and video games, but most of all he enjoys traveling with his wife.  |
-|  <img src="https://heximer.net/wp-content/uploads/2022/06/dreamchaser_logo.png" width="200px"></br>Bio #1 | Bio #1  |
-|  <img src="https://heximer.net/wp-content/uploads/2022/06/dreamchaser_logo.png" width="200px"></br>Bio #2 | Bio #2 |
+| <img src="https://heximer.net/wp-content/uploads/2022/05/jco-headshot.jpg" width="200">John Ohsner  | John is a professional Portfolio Manager and Financial Planner. He offers clients thoughtful design and implementation of their investment programs and financial plans. John focuses his work across a full array of services in portfolio management and financial planning, emphasizing the income and estate planning potential unique to each circumstance. John coordinates his work with other tax and legal professionals to administer different programs for brokerage, retirement, estate and trust accounts. John is a subject matter expert about Safe Havens and he contributes to the Project Dream Chaser research platform. John is a fee only fiduciary with leading tools for clients like Heximer Mobile. John promotes continuing education and offers internship opportunities with different schools. John is a member of the CFA Society of Columbus, the Columbus Estate Planning Council, and The Wellington School’s Alumni Association.  |
+| <img src="https://heximer.net/wp-content/uploads/2021/03/GM1_9285bestFinal-8x10.jpg" width="200">Brandon Kremer  | Brandon Kremer joined Heximer Investment Management, Inc. full time in 2016 after completing an internship with the firm in 2015. He is a Chartered Financial Analyst (CFA) Charterholder and a Chartered Alternative Investment Analyst. Brandon completed the Master of Financial Economics program at Ohio University where he also attained his undergraduate degree in Economics. As an associate in the firm Brandon is responsible for administrative matters including, but not limited to: portfolio reporting, client on-boarding and any additional services that clients require. As a Portfolio Manager Brandon is a voting member on the firm investment committee with responsibilities ranging from portfolio construction and trading to client education and investment research. Brandon is originally from Lancaster, but has lived in Columbus since 2014. He enjoys golf, fantasy football and video games, but most of all he enjoys traveling with his wife.  |
+|  <img src="https://heximer.net/wp-content/uploads/2022/06/dreamchaser_logo.png" width="200px">Bio #1 | Bio #1  |
+|  <img src="https://heximer.net/wp-content/uploads/2022/06/dreamchaser_logo.png" width="200px">Bio #2 | Bio #2 |
 
  
 * [Form ADV](https://heximer.net/wp-content/uploads/2022/03/02-28-2022-HIM-Form-ADV-Part-2A-and-2B-FINAL.pdf)
