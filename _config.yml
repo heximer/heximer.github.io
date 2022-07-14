@@ -6,4 +6,4 @@ google_analytics: UA-20951855-2
 description: "We provide discretionary asset management, financial planning, and investment advice tailored to your investment goals and objectives. Our clients enjoy peace of mind and financial security backed by trust and confidence." 
 logo: /assets/logo.png
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
