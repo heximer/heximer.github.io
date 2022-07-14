@@ -1,8 +1,3 @@
-
-*We provide discretionary asset management, financial planning, and investment advice tailored to your investment goals and objectives. Our clients enjoy peace of mind and financial security backed by trust and confidence.*
-
-----
-
 ## How to reach us: 
 * 6457 Reflections Drive, Suite #110, Dublin, OH 43017
 * Office: 614-760-9100 
@@ -10,24 +5,12 @@
 )
 ----
 
-* [Services](#services)
-  + [Personalized Glidepaths](#glidepath)
-* [Programs](#programs) 
-* [About](#about)
-* [Client Portal](#portal)
-* [Blog](#blog)
-* [Disclosures](#disclosures)
-
-----
-
 ## Services <a name="services"></a>
 
-**Planning/Retiree Transition** 
-* *Distribution Phase*
+**Planning/Retiree Transition / Distribution Phase** 
 * We’ll help coach you through the details of retirement, like not outliving your money, when to file for social security, and how to manage healthcare costs, so you can transition into your golden years with confidence.
 
-**Professionals/Savings Programs** 
-* *Accumulation Phase*
+**Professionals/Savings Programs / Accumulation Phase** 
 * We’ll work with you to develop a customized plan on how to best plan for retirement based on your lifestyle now and your hopes for the future. From there, we’ll take care of everything – coordinating the investment and monitoring of your accounts and contributions – with complete visibility and transparency.
 
 **New Client Expectations:**
@@ -49,21 +32,21 @@
 * Delivered in person, by phone, web conference or recorded screencast.
 
 
-### A HIGHER STANDARD
+### A higher standard
 
-* The Chartered Financial Analyst (CFA) & Certified Financial Planner (CFP) designations hold us to a higher ethical standard.
+The Chartered Financial Analyst (CFA) & Certified Financial Planner (CFP) designations hold us to a higher ethical standard.
 
-### FEE-ONLY COMPENSATION
+### Fee-only compensation
 
-* Our fees are always transparent and aligned with your interests.
+Our fees are always transparent and aligned with your interests.
 
-### TRUST & CREDIBILITY
+### Trust & credibility
 
-* Founded in 1989, we’ve been cultivating trusted client relationships for more than 30 years.
+Founded in 1989, we’ve been cultivating trusted client relationships for more than 30 years.
 
-### DATA-DRIVEN DECISIONS
+### Data-driven decisions
 
-* We put the time and research into developing the best investment strategies, built on data.
+We put the time and research into developing the best investment strategies, built on data.
 
 ----
 
@@ -71,22 +54,28 @@
 
 ### What is my basic plan? 
 
-* We develop a personalized glidepath – a “roadmap” -- for you based on your financial goals, current wealth, anticipated savings, spending, and taxes. We build a customized glidepath for you based on minimizing the critical risk that you fall short of what you need, when you need it.
-* This personalized glidepath helps us navigate through your financial goals and will change as your needs and circumstances change. 
-* Most glidepaths are built for the “average person” and assume the world is completely “normal.” We create custom glidepaths because we know that you are unique, and that the world today is far from normal.
+We develop a personalized glidepath – a “roadmap” -- for you based on your financial goals, current wealth, anticipated savings, spending, and taxes. We build a customized glidepath for you based on minimizing the critical risk that you fall short of what you need, when you need it.
+
+This personalized glidepath helps us navigate through your financial goals and will change as your needs and circumstances change. 
+
+Most glidepaths are built for the “average person” and assume the world is completely “normal.” We create custom glidepaths because we know that you are unique, and that the world today is far from normal.
+
 <!--- <img src="https://i.imgur.com/inAcd22.png" width="500"> -->
 
 ### Is my plan viable?
 
-* A viable plan is one that balances your long-term need for wealth accumulation and subsequent spending with concern about short-term losses. We test viability along numerous dimensions by employing mathematical techniques that simulate many possible paths that markets can take. 
-* The simulation outcomes give us better insights into the viability of your financial plan in a variety of circumstances and increase our confidence in your plan. 
+A viable plan is one that balances your long-term need for wealth accumulation and subsequent spending with concern about short-term losses. We test viability along numerous dimensions by employing mathematical techniques that simulate many possible paths that markets can take. 
+
+The simulation outcomes give us better insights into the viability of your financial plan in a variety of circumstances and increase our confidence in your plan. 
 <!--- <img src="https://i.imgur.com/xM0fC7e.png" width="500"> -->
 
 ### How does my portfolio change with the market?
 
-* We actively adjust your portfolio to account for changing market conditions. 
-* As certain market segments become more attractive, we shift your portfolio to own more of those areas and less of the unattractively valued areas. 
-* Our goal is to increase your return over time using a tried-and-true investment approach – all in the context of your specific circumstances and your plan.
+We actively adjust your portfolio to account for changing market conditions. 
+
+As certain market segments become more attractive, we shift your portfolio to own more of those areas and less of the unattractively valued areas. 
+
+Our goal is to increase your return over time using a tried-and-true investment approach – all in the context of your specific circumstances and your plan.
 <!--- <img src="https://i.imgur.com/zQm6u4t.png" width="500"> -->
 
 ----
@@ -115,13 +104,8 @@
 
 ## About <a name="about"></a>
 
-* **Investing is a marathon, not a sprint.**
-* **Managing the downside. Peace of mind is priority number one for client portfolios.**
-* **Not trying to outguess the market. Nobody knows what is going to happen tomorrow.**
-* **Persistent, pervasive, robust, cost-effective and sensible characteristics.**
-
 | Professional  | Role & Bio  |
-|:---:|:---:| 
+|:---|:---| 
 | <img src="https://heximer.net/wp-content/uploads/2022/05/jco-headshot.jpg" width="200">John Ohsner  | John is a professional Portfolio Manager and Financial Planner. He offers clients thoughtful design and implementation of their investment programs and financial plans. John focuses his work across a full array of services in portfolio management and financial planning, emphasizing the income and estate planning potential unique to each circumstance. John coordinates his work with other tax and legal professionals to administer different programs for brokerage, retirement, estate and trust accounts. John is a subject matter expert about Safe Havens and he contributes to the Project Dream Chaser research platform. John is a fee only fiduciary with leading tools for clients like Heximer Mobile. John promotes continuing education and offers internship opportunities with different schools. John is a member of the CFA Society of Columbus, the Columbus Estate Planning Council, and The Wellington School’s Alumni Association.  |
 | <img src="https://heximer.net/wp-content/uploads/2021/03/GM1_9285bestFinal-8x10.jpg" width="200">Brandon Kremer  | Brandon Kremer joined Heximer Investment Management, Inc. full time in 2016 after completing an internship with the firm in 2015. He is a Chartered Financial Analyst (CFA) Charterholder and a Chartered Alternative Investment Analyst. Brandon completed the Master of Financial Economics program at Ohio University where he also attained his undergraduate degree in Economics. As an associate in the firm Brandon is responsible for administrative matters including, but not limited to: portfolio reporting, client on-boarding and any additional services that clients require. As a Portfolio Manager Brandon is a voting member on the firm investment committee with responsibilities ranging from portfolio construction and trading to client education and investment research. Brandon is originally from Lancaster, but has lived in Columbus since 2014. He enjoys golf, fantasy football and video games, but most of all he enjoys traveling with his wife.  |
 |  <img src="https://heximer.net/wp-content/uploads/2022/06/dreamchaser_logo.png" width="200px">Bio #1 | Bio #1  |
@@ -131,17 +115,6 @@
 * [Form ADV](https://heximer.net/wp-content/uploads/2022/03/02-28-2022-HIM-Form-ADV-Part-2A-and-2B-FINAL.pdf)
 * [Privacy Policy](https://heximer.net/wp-content/uploads/2021/04/Privacy-Policy-10152020.pdf)
 * [Employee Compliance Training](https://www.complianceadv.com/client-resources/)
-
-----
-
-## Client Portal <a name="portal"></a>
-
-* [HeximerMobile - Website](https://login.orionadvisor.com/)
-* [HeximerMobile - iOS](https://apps.apple.com/mu/app/heximer-mobile/id1561038455)
-* [HeximerMobile - Android](https://play.google.com/store/apps/details?id=com.advisorlynx.mobileadvisor.heximer)
-* [BNY Pershing - Website](https://investor.pershing.com)
-* [BNY Pershing - iOS](https://apps.apple.com/us/app/bny-mellon-pershing-access/id1486554730)
-* [BNY Pershing - Android](https://apps.apple.com/us/app/bny-mellon-pershing-access/id1486554730)
 
 ----
 
