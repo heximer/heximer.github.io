@@ -1,4 +1,4 @@
-## Fee Only Registered Investment Adviser and Financial Planner in Central Ohio.
+### Fee Only Registered Investment Adviser and Financial Planner in Central Ohio
 
 ----
 
