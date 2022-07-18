@@ -1,8 +1,5 @@
-## How to reach us: 
-* 6457 Reflections Drive, Suite #110, Dublin, OH 43017
-* Office: 614-760-9100 
-* [info@heximer.net](mailto:info@heximer.net
-)
+## Fee Only Registered Investment Adviser and Financial Planner in Central Ohio.
+
 ----
 
 ## Services <a name="services"></a>
