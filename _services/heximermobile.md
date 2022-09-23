@@ -4,6 +4,25 @@ date: 2019-03-28T15:14:54+10:00
 weight: 5
 ---
 
+# HeximerMobile
+
+Introduction
+
+## Password Reset
+
+The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/PRdGdzjlbOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   ![enter image description here](%3Ciframe%20width=%22560%22%20height=%22315%22%20src=%22https://www.youtube.com/embed/PRdGdzjlbOY%22%20title=%22YouTube%20video%20player%22%20frameborder=%220%22%20allow=%22accelerometer;%20autoplay;%20clipboard-write;%20encrypted-media;%20gyroscope;%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E)
+
+## Tax Return Upload
+
+All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CV28iN7rBI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![enter image description here](%3Ciframe%20width=%22560%22%20height=%22315%22%20src=%22https://www.youtube.com/embed/CV28iN7rBI0%22%20title=%22YouTube%20video%20player%22%20frameborder=%220%22%20allow=%22accelerometer;%20autoplay;%20clipboard-write;%20encrypted-media;%20gyroscope;%20picture-in-picture%22%20allowfullscreen%3E%3C/iframe%3E)
+
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
