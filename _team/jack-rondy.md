@@ -3,7 +3,7 @@ title: "Jack Rondy"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/jr-thumb.jpg"
 jobtitle: "Investment Analyst"
-linkedinurl: ""
+linkedinurl: "https://www.linkedin.com/in/jack-rondy-5a28521b6/"
 promoted: true
 weight: 1
 ---
