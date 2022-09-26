@@ -1,13 +1,14 @@
 ---
-title: "Peter Van Eijk"
+title: "Mary Barczak"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
-promoted: false
+jobtitle: "Operations Manager"
+linkedinurl: "https://www.linkedin.com/in/mary-barczak/"
+promoted: True
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Mary Barczak joined the Heximer Investment Management, Inc. team in 2021. She brings expertise in marketing, design and CRM management to her new role as Office Manager. Prior to HIM she worked as BalletMet’s marketing manager and Grandview Mercantile’s web content/graphic design guru. She holds a Bachelor of Fine Arts with a specialization in Photography with a minor in marketing from Ball State University.  
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Alongside working for HIM part-time, she is also a professional artist, showing her work at a national level. She currently resides in Franklinton with her partner and three cats.  
+
