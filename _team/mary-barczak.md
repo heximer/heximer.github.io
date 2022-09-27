@@ -1,7 +1,7 @@
 ---
 title: "Mary Barczak"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/m-thumb.png"
+image: "images/team/m-thumb3.jpg"
 jobtitle: "Operations Manager"
 weight: 1
 promoted: true
