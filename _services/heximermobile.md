@@ -12,7 +12,8 @@ Introduction
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/PRdGdzjlbOY" frameborder="0" allowfullscreen></iframe>
+<a href="http://www.youtube.com/embed/PRdGdzjlbOY">
+         <img src="https://raw.githubusercontent.com/heximer/him2/master/images/password-reset-thumb.png"></a>
 
 ## Tax Return Upload
 
