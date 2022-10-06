@@ -8,6 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Jack joined Heximer Investment Management Inc. in September of 2021 after completing an internship wthh the firm in the Spring of 2021. He currently attends The Ohio State University studying Economics and Actuarial Science and is planning on working full-time with the firm once he graduates in May of 2023. He is currently studying for CFA Level 1 and will sit for the exam in May of 2023. Jack is an Investment Analyst for our firm and his responsibilites are: supporting and monitoring portfolio rebalancing efforts, to perform research and analysis of investment options, and to execute data gathering, modeling and presentation/plan development. He is a Junior Member of the CFA Society in Columbus, as well as a member of the Actuarial Science Club and Sports Analytics Assocation at The Ohio State University. Jack is originally from Hilliard, Ohio and has lived in the Columbus area his whole life. He enjoys football, basketabll, fantasy football and being around his friends and family.
