@@ -12,5 +12,3 @@ intro_image_hide_on_mobile: false
 > **Innovation** - “The most damaging phrase in the language is: ‘it’s always been done that way.’” - Grace Hopper</br>
 > **Humility** - Our founders' parting words were to ‘be willing to admit when we were wrong.’ We carry on that tradition in all we do.</br>
 > **Objectivity** - We routinely evaluate our decision-making and show a willingness to change our minds given new evidence.
-
-## Meet The Team
