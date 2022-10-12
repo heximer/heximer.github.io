@@ -2,10 +2,6 @@ main:
   - name: "Resources"
     url: "/services/"
     weight: 2
-    subsubfolderitems:
-          - name: "HeximerMobile"
-            url: "https://apps.apple.com/mu/app/heximer-mobile/id1561038455"
-            weight: 2
   - name: "Who We Are"
     url: "/team/"
     weight: 3
