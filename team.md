@@ -12,3 +12,7 @@ We partner with clients to help them achieve better financial outcomes and peace
 **Innovation** - “The most damaging phrase in the language is: ‘it’s always been done that way.’” - Grace Hopper  
 **Humility** - Our founders' parting words were to ‘be willing to admit when we were wrong.’ We carry on that tradition in all we do.  
 **Objectivity** - We routinely evaluate our decision-making and show a willingness to change our minds given new evidence.  
+
+# Meet The Team
+
+Our team of professionals.  
