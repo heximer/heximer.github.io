@@ -1,11 +1,11 @@
 main:
   - name: "Resources"
-    url: "/services/"
+    url: "/resources/"
     weight: 2
-  - name: "Who we are"
+  - name: "Who We Are"
     url: "/team/"
     weight: 3
-  - name: "What we do"
+  - name: "What We Do"
     url: "/about/"
     weight: 4
   - name: "Contact"
