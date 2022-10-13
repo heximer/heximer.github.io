@@ -4,12 +4,11 @@ layout: contact
 description: Contact
 ---
 
-6457 Reflections Drive, Suite #110, Dublin, Ohio 43017
+6457 Reflections Drive, Suite #110, Dublin, Ohio 43017  
+[Map](https://goo.gl/maps/Zap39DhuXKaU2Lfd6)
 
 [Form ADV Part 2A](https://raw.githubusercontent.com/heximer/heximer.github.io/main/assets/02-28-2022-HIM-Form-ADV-Part-2A-and-2B-FINAL.pdf)  
-Privacy Policy  
-Disclosures  
-
+[Privacy Policy](https://github.com/heximer/heximer.github.io/raw/main/assets/Privacy-Policy-10152020.pdf)  
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
@@ -22,8 +21,6 @@ Disclosures
 | Saturday  | Closed          |
 
 ## Disclosures
-
-
 
 Heximer Investment Management, Inc. (RIA) is a Registered Investment Adviser with the Ohio Division of Securities. Registration does not imply a certain level of skill or training. RIA and its representatives are in compliance with the current filing requirements imposed upon registered investment advisers by those states in which RIA maintains clients. RIA may only transact business in those states in which it is registered, or qualifies for an exemption or exclusion from registration requirements. RIA’s web site is limited to the dissemination of general information pertaining to its advisory services, together with access to additional investment-related information, publications, and links. Accordingly, the publication of RIA’s web site on the Internet should not be construed by any consumer and/or prospective client as RIA’s solicitation to effect, or attempt to effect transactions in securities, or the rendering of personalized investment advice for compensation, over the Internet. For information pertaining to the registration status of RIA, please contact the SEC or the state securities regulators for those states in which RIA maintains a filing. A copy of RIA’s current written disclosure statement as set forth on Part II of form ADV is available upon request. RIA does not make any representations or warranties as to the accuracy, timeliness, suitability, completeness, or relevance of any information prepared by any unaffiliated third party, whether linked to RIA’s web site or incorporated herein, and takes no responsibility therefore. All such information is provided solely for convenience purposes and all users thereof should be guided accordingly.  
 
