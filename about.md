@@ -42,7 +42,7 @@ Hourly or fixed fee engagements for Financial Planning of Investment Services.
 > Personalized explanation of investment risk and return to help better understand how investments might perform in the future.  
 
 ### Planning engagements include a delivery meeting and the following:  
-> Personalized glidepath unique to each circumstance.
+> Personalized glidepath unique to each circumstance.  
 > In most cases, a 10+ page financial plan starting with a net worth statement and ending with an action checklist.  
 > Recommendations in the following areas: cash flow planning, debt repayment, investments, retirement planning, insurance, estate planning and tax planning.  
 > An asset allocation on your 401(k) or work retirement account(s).  
