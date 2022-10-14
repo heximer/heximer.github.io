@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Resources
 
-Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur. Lorem markdownum Achaica revolutaque amore, penitus puppes nec furit, clipeus fatetur.
+These resources are helpful to clients to enhance their managed program experience.
