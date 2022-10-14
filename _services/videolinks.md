@@ -4,10 +4,12 @@ date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
 
+This collection of training videos helps offer the best experience with our technology.
+
 ## Overview
 
 <a href="https://www.youtube.com/embed/WOUb2Lpww2U">
-         <img src="https://raw.githubusercontent.com/heximer/him2/master/images/password-reset-thumb.png"></a>
+         <img src="https://raw.githubusercontent.com/heximer/him2/master/images/overview-thumb.png"></a>
 
 ## Password Reset
 
