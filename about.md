@@ -42,10 +42,12 @@ We develop a personalized glidepath – a “roadmap” -- for you based on your
 
 > Most glidepaths are built for the “average person” and assume the world is completely “normal.” We create custom glidepaths because we know that you are unique, and  > that the world today is far from normal.  
 
+
+![Programs](/images/nebo3.png)
+
 > We actively adjust your portfolio to account for changing market conditions. As certain market segments become more attractive, we shift your portfolio to own more 
 > of those areas and less of the unattractively valued areas. Our goal is to increase your return over time using a tried-and-true investment approach – all in the    > context of your specific circumstances and your plan.
 
-![Programs](/images/nebo3.png)
 
 
 
