@@ -37,19 +37,7 @@ Hourly or fixed fee engagements for Financial Planning of Investment Services.
 ## What does an engagement look like?
 
 ### A discovery meeting where we talk about your financial goals and concerns.  
-> Evaluate personal financial risk tolerance, and investment objectives, blending psychology and statistics.  
-> Collect and organize the information needed to develop an asset management program which includes your goals and the resources available to fund them.  
-> Personalized explanation of investment risk and return to help better understand how investments might perform in the future.  
 
-### Planning engagements include a delivery meeting and the following:  
-> Personalized glidepath unique to each circumstance.  
-> In most cases, a 10+ page financial plan starting with a net worth statement and ending with an action checklist.  
-> Recommendations in the following areas: cash flow planning, debt repayment, investments, retirement planning, insurance, estate planning and tax planning.  
-> An asset allocation on your 401(k) or work retirement account(s).  
-> Detailed recommendations to help you maximize the benefits your employer offers.  
-> Proactive measures to protect and defend your identity and financial well-being from cybercrime.  
-> Network of other professional resources that we can recommend based upon your individual needs.  
+### Planning engagements include a delivery meeting and personalized follow up where uncertainty is the greatest.
 
 ### Periodic follow-up to measure progress.
-
-> Delivered in person, by phone, web conference or recorded screencast.  
