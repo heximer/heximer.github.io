@@ -4,7 +4,7 @@ date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
 
-This collection of training videos helps offer the best experience from our technology vendors whose products are hosted on third party websites.
+
 
 ## Client Portal Overview
 
