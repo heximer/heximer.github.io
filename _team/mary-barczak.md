@@ -3,8 +3,8 @@ title: "Mary Barczak"
 date: 2018-12-20T13:44:30+10:00
 image: "images/team/m-thumb3.jpg"
 jobtitle: "Operations Manager"
-weight: 1
-promoted: true
+weight: 0
+promoted: false
 ---
 
 Mary Barczak joined the Heximer Investment Management, Inc. team in 2021. She brings expertise in marketing, design and CRM management to her new role as Office Manager. Prior to HIM she worked as BalletMet’s marketing manager and Grandview Mercantile’s web content/graphic design guru. She holds a Bachelor of Fine Arts with a specialization in Photography with a minor in marketing from Ball State University.  
