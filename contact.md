@@ -4,8 +4,7 @@ layout: contact
 description: Contact
 ---
 
-6457 Reflections Drive, Suite #110, Dublin, Ohio 43017  
-[Map](https://goo.gl/maps/Zap39DhuXKaU2Lfd6)
+[6457 Reflections Drive, Suite #110, Dublin, Ohio 43017](https://goo.gl/maps/Zap39DhuXKaU2Lfd6)  
 
 [Form ADV Part 2A](https://raw.githubusercontent.com/heximer/heximer.github.io/main/assets/02-28-2022-HIM-Form-ADV-Part-2A-and-2B-FINAL.pdf)  
 [Privacy Policy](https://github.com/heximer/heximer.github.io/raw/main/assets/Privacy-Policy-10152020.pdf)  
