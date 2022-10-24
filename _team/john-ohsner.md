@@ -1,6 +1,6 @@
 ---
 title: "John Ohsner, CFA, CFP"
-date: 2018-11-19T10:47:58+10:00
+date: 2022-10-19T10:47:58+10:00
 image: "images/team/jo-thumb.png"
 jobtitle: "Portfolio Manager & President"
 linkedinurl: "https://www.linkedin.com/in/johnohsner"
