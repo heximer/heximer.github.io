@@ -12,7 +12,7 @@ Below find links to access information about your managed program through our te
 [`Apple iOS`](https://apps.apple.com/mu/app/heximer-mobile/id1561038455)  
 [`Android`](https://play.google.com/store/apps/details?id=com.advisorlynx.mobileadvisor.heximer)  
 
-[Watch the training videos by following this link.](https://heximer.net/him2/services/videolinks/)  
+[Watch the training videos by following this link.](https://heximer.net/services/videolinks/)  
 
 ## Process your Mobile Deposits using the BNY Pershing Mobile Applications
 
