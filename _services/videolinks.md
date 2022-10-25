@@ -8,7 +8,7 @@ weight: 8
 
 ## Client Portal Overview
 
-<a href="https://www.youtube.com/embed/WOUb2Lpww2U">
+<a href="https://www.youtube.com/embed/_8RC4j1T-F8">
          <img src="https://raw.githubusercontent.com/heximer/him2/master/images/overview-thumb.png"></a>
 
 ## Client Portal Password Reset
