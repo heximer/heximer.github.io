@@ -9,7 +9,7 @@ bodyClass: page-about
 
 Take a look and see what program fits your investment needs. Or, we can help you determine which program best suits your investment objectives, and lifestyle. You may find that a combination of our programs may work best for you.    
 
-![Programs](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Programs](/images/pixeltrue-teaching-1.png)
 
 ## Full Service Wealth Management
 
