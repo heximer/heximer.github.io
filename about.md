@@ -38,12 +38,9 @@ Hourly or fixed fee engagements for Financial Planning of Investment Services.
 
 We develop a personalized glidepath – a “roadmap” -- for you based on your financial goals, current wealth, anticipated savings, spending, and taxes. This personalized glidepath helps us navigate through your financial goals and will change as your needs and circumstances change.  
 
-![Programs](/images/nebo1.png)
+![Programs](/images/NEBO_glidepath.png)
 
 > Most glidepaths are built for the “average person” and assume the world is completely “normal.” We create custom glidepaths because we know that you are unique, and that the world today is far from normal.  
-
-
-![Programs](/images/nebo3.png)
 
 > We actively adjust your portfolio to account for changing market conditions. As certain market segments become more attractive, we shift your portfolio to own more 
 > of those areas and less of the unattractively valued areas. Our goal is to increase your return over time using a tried-and-true investment approach – all in the  context of your specific circumstances and your plan.
