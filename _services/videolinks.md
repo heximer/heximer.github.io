@@ -18,5 +18,5 @@ weight: 8
 
 ## Client Portal Tax Return Upload
 
-<a href="http://www.youtube.com/embed/PRdGdzjlbOY">
+<a href="http://www.youtube.com/embed/CV28iN7rBI0">
          <img src="https://raw.githubusercontent.com/heximer/him2/master/images/tax-return-thumb.png"></a>
