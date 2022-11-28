@@ -1,5 +1,5 @@
 ---
-title: "John Ohsner, CFA, CFP"
+title: "John Ohsner, CFA, EA, CFP"
 date: 2022-10-19T10:47:58+10:00
 image: "images/team/jo-thumb.png"
 jobtitle: "Portfolio Manager & President"
