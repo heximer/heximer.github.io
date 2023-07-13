@@ -9,6 +9,7 @@ logo:
   desktop: "images/logo/logo.png"
   #desktop_height: "45px"
   desktop_width: "120px"
+  url: "/"
 
 home: 
   limit_services: 6
