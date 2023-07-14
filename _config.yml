@@ -16,7 +16,7 @@ home:
   limit_services: 6
 
 collections:
-  resources:
+  services:
     output: true
     sort_by: weight
   team:
