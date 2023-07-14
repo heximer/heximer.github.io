@@ -1,6 +1,5 @@
 ---
 title: Resources
-permalink: /resources/
 layout: services
 description: Services
 intro_image: "images/pixeltrue-plan-1.png"
