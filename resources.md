@@ -1,8 +1,8 @@
 ---
 title: Resources
 permalink: /resources/
-layout: services
-description: Services
+layout: resources
+description: resources
 intro_image: "images/pixeltrue-plan-1.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
