@@ -1,10 +1,6 @@
 baseurl: '/'
 permalink: pretty
 title: 'Heximer Investment Management, Inc'
-description: This is my site. 
-services:
-  - name: Resources
-    permalink: /resources/<service_name>
 
 logo:
   mobile: "images/logo/logo.png"
