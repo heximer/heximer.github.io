@@ -14,7 +14,7 @@ description: Contact
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |
 | Saturday  | Closed          |
-| Saturday  | Closed          |
+| Sunday    | Closed          |
 
 ## General Disclosures:  
 Our website offers general information about our services and should not be acted upon without obtaining specific advice from a qualified professional. The information provided is not intended to provide any investment, tax, or legal advice; in addition, nothing on this website should be considered a solicitation for the purchase or sale of any security.   
