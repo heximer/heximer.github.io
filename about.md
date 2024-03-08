@@ -29,7 +29,7 @@ This program eliminates all the extras, utilizing funds to implement your strate
 
 ## Support and Financial Planning
 
-Hourly or fixed fee engagements for Financial Planning of Investment Services.  
+Hourly or fixed fee engagements for Financial Planning or Investment Services.  
 
 > As a fixed fee, typically ranging from $1,000 to $25,000, depending on the nature and complexity of each client's circumstances.  
 > On an hourly basis of $200 per hour.  
